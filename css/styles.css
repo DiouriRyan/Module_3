@@ -1,0 +1,40 @@
+div > p {
+	text-align: justify;
+}
+
+nav a {
+    padding-left: 130px;
+}
+
+#chicken-margin {
+	margin-top: 30px;
+	margin-bottom: 10px
+  }
+  
+  #Chicken {
+	  top: ;
+	text-align: center;
+	font-family: Georgia,sans-serif;
+	font-weight: bold;
+	font-size: 150%;
+	margin-top: 0;
+	margin-bottom: 15px;
+	
+}
+
+#chicken-background {
+	background-color: rgb(232, 231, 238);
+}
+
+
+/* XS screen */
+@media (max-width:767px){
+	
+	.navbar-brand {
+		margin-left: 15px;
+	}
+	.navbar-collapse
+    {
+		background-color: gray;
+    }
+}
